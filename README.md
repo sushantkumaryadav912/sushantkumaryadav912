@@ -84,7 +84,7 @@ Blog posts on tech and coding adventures are on the way. Follow along on [Dev.to
 <p align="left">
   <a href="https://codepen.io/rolite-root" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" width="36" height="36"/></a>&nbsp;
   <a href="https://dev.to/sushantkryadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="36" height="36"/></a>&nbsp;
-  <a href="https://x.com/RoLite19" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-x.svg" alt="X" width="36" height="36"/></a>&nbsp;
+  <a href="https://x.com/RoLite19" target="_blank"><img src="https://cdn.simpleicons.org/x/F8F0F3" alt="X" width="36" height="36"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/sushantkumaryadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36"/></a>&nbsp;
   <a href="https://stackoverflow.com/users/sushant-kumar-yadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="36" height="36"/></a>&nbsp;
   <a href="https://www.kaggle.com/sushantkumaryadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="36" height="36"/></a>&nbsp;
@@ -101,10 +101,6 @@ Blog posts on tech and coding adventures are on the way. Follow along on [Dev.to
 ---
 
 > “I never lose. I either win or learn.” — Nelson Mandela
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushantkumaryadav912&label=Profile%20views&color=701A3D&style=flat-square" alt="Profile views"/>
-</p>
 
 <p align="center">
   <img src="assets/sushant-footer.svg" alt="Thanks for stopping by" width="100%"/>
