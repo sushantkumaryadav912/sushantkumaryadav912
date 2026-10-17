@@ -1,333 +1,111 @@
-<!-- <h1 align="center">Hi there 👋, I'm Sushant Kumar Yadav</h1>
-<h3 align="center">I'm a curious and driven Computer Science student who loves building things, exploring tech, and solving real-world problems through code.</h3>
-
----
-
-- 🔐 Currently diving deep into **Cybersecurity** and expanding my skills in **Full Stack Development**.
-- 🌱 Learning actively through platforms like **Coursera**, building projects and sharpening problem-solving skills.
-- 📬 You can reach out to me anytime at **sushantkumaryadav912@gmail.com**.
-- 🌐 Let’s connect on [**LinkedIn**](https://www.linkedin.com/in/sushantkumaryadav/) and grow together!
-
----
-
-### 📝 Blog Posts
-Stay tuned for my upcoming blog posts on tech and coding adventures!
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://codepen.io/rolite-root" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://dev.to/sushantkryadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://x.com/RoLite19" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-x.svg" alt="X" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://www.linkedin.com/in/sushantkumaryadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://stackoverflow.com/users/sushant-kumar-yadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://www.kaggle.com/sushantkumaryadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://www.facebook.com/sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://www.instagram.com/sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://medium.com/@sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://www.youtube.com/@sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://www.hackerrank.com/sushantkumaryad1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://leetcode.com/sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://www.hackerearth.com/@sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://discord.gg/epSFFWj4" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40" style="margin-right: 10px;" /></a>  
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-#### Languages
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge" alt="C"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white&style=for-the-badge" alt="Dart"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge" alt="JavaScript"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white&style=for-the-badge" alt="LaTeX"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" alt="Python"/></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-#### Frameworks & Libraries
-<p align="left">
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge" alt="Express.js"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white&style=for-the-badge" alt="Flutter"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&style=for-the-badge" alt="JWT"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white&style=for-the-badge" alt="Keras"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" alt="React"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" alt="React Native"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge" alt="React Router"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white&style=for-the-badge" alt="Spring"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="TailwindCSS"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Three.js-black?logo=three.js&logoColor=white&style=for-the-badge" alt="Three.js"/></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-#### Databases
-<p align="left">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase&style=for-the-badge" alt="Firebase"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" alt="MariaDB"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft%20sql%20server&logoColor=white&style=for-the-badge" alt="Microsoft SQL Server"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://surrealdb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SurrealDB-FF00A0?logo=surrealdb&logoColor=white&style=for-the-badge" alt="SurrealDB"/></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-#### Data Science & ML
-<p align="left">
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?logo=scikit-learn&logoColor=white&style=for-the-badge" alt="scikit-learn"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white&style=for-the-badge" alt="TensorFlow"/></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-#### Cloud & DevOps
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-%23232F3E.svg?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white&style=for-the-badge" alt="Azure"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge" alt="Google Cloud"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7&style=for-the-badge" alt="Netlify"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel"/></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-#### Tools & Platforms
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white&style=for-the-badge" alt="Arduino"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white&style=for-the-badge" alt="Blender"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white&style=for-the-badge" alt="Canva"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://eslint.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white&style=for-the-badge" alt="ESLint"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge" alt="Figma"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge" alt="Git"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?logo=githubactions&logoColor=white&style=for-the-badge" alt="GitHub Actions"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?logo=adobeillustrator&logoColor=white&style=for-the-badge" alt="Illustrator"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black&style=for-the-badge" alt="Linux"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white&style=for-the-badge" alt="Notion"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white&style=for-the-badge" alt="NPM"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white&style=for-the-badge" alt="Unity"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white&style=for-the-badge" alt="WordPress"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?logo=yarn&logoColor=white&style=for-the-badge" alt="Yarn"/></a>&nbsp;&nbsp;&nbsp;
-</p>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushantkumaryadav912&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="assets/sushant-hero.svg" alt="Sushant Kumar Yadav — Computer Science Student · Cybersecurity · Full-Stack Development" width="100%"/>
 </p>
+
+## About me
+
+I'm a curious, driven Computer Science student who loves building things, exploring tech and solving real-world problems through code.
+
+- 🔐 Currently going deep into **Cybersecurity** while growing my **Full-Stack Development** skills
+- 🌱 Learning through **Coursera**, building projects and sharpening my problem-solving
+- 📬 Email me at **sushantkumaryadav912@gmail.com**
+- 🌐 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/sushantkumaryadav)
+
+---
+
+## Featured projects
+
+<!--
+  Add your 3–4 best projects here. Only list real projects with working links. Template:
+
+  | Project | What it solves | Tech | Links |
+  |---|---|---|---|
+  | **Project name** | One-line problem statement | React, Node.js, MongoDB | [Repo](https://github.com/sushantkumaryadav912/REPO) · [Demo](https://...) |
+-->
+
+_Selected projects are coming soon. Browse my [repositories](https://github.com/sushantkumaryadav912?tab=repositories) in the meantime._
+
+---
+
+## Tech stack
+
+**Languages**<br>
+<img src="https://img.shields.io/badge/C-701A3D?style=flat-square&logo=c&logoColor=F8F0F3" alt="C"/> <img src="https://img.shields.io/badge/C++-701A3D?style=flat-square&logo=cplusplus&logoColor=F8F0F3" alt="C++"/> <img src="https://img.shields.io/badge/Java-701A3D?style=flat-square&logo=openjdk&logoColor=F8F0F3" alt="Java"/> <img src="https://img.shields.io/badge/Python-701A3D?style=flat-square&logo=python&logoColor=F8F0F3" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-701A3D?style=flat-square&logo=javascript&logoColor=F8F0F3" alt="JavaScript"/> <img src="https://img.shields.io/badge/Dart-701A3D?style=flat-square&logo=dart&logoColor=F8F0F3" alt="Dart"/> <img src="https://img.shields.io/badge/HTML5-701A3D?style=flat-square&logo=html5&logoColor=F8F0F3" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-701A3D?style=flat-square&logo=css3&logoColor=F8F0F3" alt="CSS3"/> <img src="https://img.shields.io/badge/LaTeX-701A3D?style=flat-square&logo=latex&logoColor=F8F0F3" alt="LaTeX"/>
+
+**Frameworks & Libraries**<br>
+<img src="https://img.shields.io/badge/React-701A3D?style=flat-square&logo=react&logoColor=F8F0F3" alt="React"/> <img src="https://img.shields.io/badge/Next.js-701A3D?style=flat-square&logo=nextdotjs&logoColor=F8F0F3" alt="Next.js"/> <img src="https://img.shields.io/badge/React_Native-701A3D?style=flat-square&logo=react&logoColor=F8F0F3" alt="React Native"/> <img src="https://img.shields.io/badge/React_Router-701A3D?style=flat-square&logo=reactrouter&logoColor=F8F0F3" alt="React Router"/> <img src="https://img.shields.io/badge/Node.js-701A3D?style=flat-square&logo=nodedotjs&logoColor=F8F0F3" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-701A3D?style=flat-square&logo=express&logoColor=F8F0F3" alt="Express.js"/> <img src="https://img.shields.io/badge/Spring-701A3D?style=flat-square&logo=spring&logoColor=F8F0F3" alt="Spring"/> <img src="https://img.shields.io/badge/Flutter-701A3D?style=flat-square&logo=flutter&logoColor=F8F0F3" alt="Flutter"/> <img src="https://img.shields.io/badge/TailwindCSS-701A3D?style=flat-square&logo=tailwindcss&logoColor=F8F0F3" alt="TailwindCSS"/> <img src="https://img.shields.io/badge/Three.js-701A3D?style=flat-square&logo=threedotjs&logoColor=F8F0F3" alt="Three.js"/> <img src="https://img.shields.io/badge/JWT-701A3D?style=flat-square&logo=jsonwebtokens&logoColor=F8F0F3" alt="JWT"/> <img src="https://img.shields.io/badge/Keras-701A3D?style=flat-square&logo=keras&logoColor=F8F0F3" alt="Keras"/>
+
+**Databases**<br>
+<img src="https://img.shields.io/badge/MongoDB-701A3D?style=flat-square&logo=mongodb&logoColor=F8F0F3" alt="MongoDB"/> <img src="https://img.shields.io/badge/MySQL-701A3D?style=flat-square&logo=mysql&logoColor=F8F0F3" alt="MySQL"/> <img src="https://img.shields.io/badge/MariaDB-701A3D?style=flat-square&logo=mariadb&logoColor=F8F0F3" alt="MariaDB"/> <img src="https://img.shields.io/badge/SQL_Server-701A3D?style=flat-square&logo=microsoftsqlserver&logoColor=F8F0F3" alt="SQL Server"/> <img src="https://img.shields.io/badge/Firebase-701A3D?style=flat-square&logo=firebase&logoColor=F8F0F3" alt="Firebase"/> <img src="https://img.shields.io/badge/SurrealDB-701A3D?style=flat-square&logo=surrealdb&logoColor=F8F0F3" alt="SurrealDB"/>
+
+**Data Science & ML**<br>
+<img src="https://img.shields.io/badge/NumPy-701A3D?style=flat-square&logo=numpy&logoColor=F8F0F3" alt="NumPy"/> <img src="https://img.shields.io/badge/Pandas-701A3D?style=flat-square&logo=pandas&logoColor=F8F0F3" alt="Pandas"/> <img src="https://img.shields.io/badge/scikit--learn-701A3D?style=flat-square&logo=scikitlearn&logoColor=F8F0F3" alt="scikit-learn"/> <img src="https://img.shields.io/badge/TensorFlow-701A3D?style=flat-square&logo=tensorflow&logoColor=F8F0F3" alt="TensorFlow"/>
+
+**Cloud & DevOps**<br>
+<img src="https://img.shields.io/badge/AWS-701A3D?style=flat-square&logo=amazonaws&logoColor=F8F0F3" alt="AWS"/> <img src="https://img.shields.io/badge/Azure-701A3D?style=flat-square&logo=microsoftazure&logoColor=F8F0F3" alt="Azure"/> <img src="https://img.shields.io/badge/Google_Cloud-701A3D?style=flat-square&logo=googlecloud&logoColor=F8F0F3" alt="Google Cloud"/> <img src="https://img.shields.io/badge/Docker-701A3D?style=flat-square&logo=docker&logoColor=F8F0F3" alt="Docker"/> <img src="https://img.shields.io/badge/Netlify-701A3D?style=flat-square&logo=netlify&logoColor=F8F0F3" alt="Netlify"/> <img src="https://img.shields.io/badge/Vercel-701A3D?style=flat-square&logo=vercel&logoColor=F8F0F3" alt="Vercel"/>
+
+**Tools & Platforms**<br>
+<img src="https://img.shields.io/badge/Git-701A3D?style=flat-square&logo=git&logoColor=F8F0F3" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-701A3D?style=flat-square&logo=github&logoColor=F8F0F3" alt="GitHub"/> <img src="https://img.shields.io/badge/GitHub_Actions-701A3D?style=flat-square&logo=githubactions&logoColor=F8F0F3" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Linux-701A3D?style=flat-square&logo=linux&logoColor=F8F0F3" alt="Linux"/> <img src="https://img.shields.io/badge/NPM-701A3D?style=flat-square&logo=npm&logoColor=F8F0F3" alt="NPM"/> <img src="https://img.shields.io/badge/Yarn-701A3D?style=flat-square&logo=yarn&logoColor=F8F0F3" alt="Yarn"/> <img src="https://img.shields.io/badge/Postman-701A3D?style=flat-square&logo=postman&logoColor=F8F0F3" alt="Postman"/> <img src="https://img.shields.io/badge/Figma-701A3D?style=flat-square&logo=figma&logoColor=F8F0F3" alt="Figma"/> <img src="https://img.shields.io/badge/Canva-701A3D?style=flat-square&logo=canva&logoColor=F8F0F3" alt="Canva"/> <img src="https://img.shields.io/badge/Notion-701A3D?style=flat-square&logo=notion&logoColor=F8F0F3" alt="Notion"/> <img src="https://img.shields.io/badge/Arduino-701A3D?style=flat-square&logo=arduino&logoColor=F8F0F3" alt="Arduino"/> <img src="https://img.shields.io/badge/Unity-701A3D?style=flat-square&logo=unity&logoColor=F8F0F3" alt="Unity"/> <img src="https://img.shields.io/badge/Blender-701A3D?style=flat-square&logo=blender&logoColor=F8F0F3" alt="Blender"/> <img src="https://img.shields.io/badge/ESLint-701A3D?style=flat-square&logo=eslint&logoColor=F8F0F3" alt="ESLint"/> <img src="https://img.shields.io/badge/WordPress-701A3D?style=flat-square&logo=wordpress&logoColor=F8F0F3" alt="WordPress"/> <img src="https://img.shields.io/badge/Photoshop-701A3D?style=flat-square&logo=adobephotoshop&logoColor=F8F0F3" alt="Photoshop"/> <img src="https://img.shields.io/badge/Illustrator-701A3D?style=flat-square&logo=adobeillustrator&logoColor=F8F0F3" alt="Illustrator"/>
+
+---
+
+## Contribution activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantkumaryadav912&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkumaryadav912&theme=radical" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/C77B9B/sushantkumaryadav912" alt="GitHub contribution graph for sushantkumaryadav912" width="100%"/>
 </p>
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushantkumaryadav912&theme=radical" alt="Trophies" /></a>
-</p>
-
----
-
-### ✍️ Favorite Quote
-<p align="center">
-  <blockquote>
-    "I never lose. I either win or learn." — Nelson Mandela
-  </blockquote>
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sushantkumaryadav912&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushantkumaryadav912&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-Thanks for stopping by! 😊  
-Let’s connect, collaborate, and create something awesome together. -->
-
-
-
-
-
-<h1 align="center">Hi there 👋, I'm Sushant Kumar Yadav</h1>
-<h3 align="center">I'm a curious and driven Computer Science student who loves building things, exploring tech, and solving real-world problems through code.</h3>
-
----
-
-- 🔐 Currently diving deep into **Cybersecurity** and expanding my skills in **Full Stack Development**.
-- 🌱 Learning actively through platforms like **Coursera**, building projects and sharpening problem-solving skills.
-- 📬 You can reach out to me anytime at **sushantkumaryadav912@gmail.com**.
-- 🌐 Let’s connect on [**LinkedIn**](https://www.linkedin.com/in/sushantkumaryadav/) and grow together!
-
----
-
-### 📝 Blog Posts
-Stay tuned for my upcoming blog posts on tech and coding adventures!
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://codepen.io/rolite-root" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://dev.to/sushantkryadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://x.com/RoLite19" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-x.svg" alt="X" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://www.linkedin.com/in/sushantkumaryadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://stackoverflow.com/users/sushant-kumar-yadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://www.kaggle.com/sushantkumaryadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://www.facebook.com/sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://www.instagram.com/sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://medium.com/@sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://www.youtube.com/@sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://www.hackerrank.com/sushantkumaryad1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://leetcode.com/sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://www.hackerearth.com/@sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" width="40" height="40" style="margin-right: 10px;" /></a>  
-  <a href="https://discord.gg/epSFFWj4" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40" style="margin-right: 10px;" /></a> 
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-#### Languages
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge" alt="C"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white&style=for-the-badge" alt="Dart"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge" alt="JavaScript"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white&style=for-the-badge" alt="LaTeX"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" alt="Python"/></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-#### Frameworks & Libraries
-<p align="left">
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge" alt="Express.js"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white&style=for-the-badge" alt="Flutter"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&style=for-the-badge" alt="JWT"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white&style=for-the-badge" alt="Keras"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" alt="React"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" alt="React Native"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge" alt="React Router"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white&style=for-the-badge" alt="Spring"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="TailwindCSS"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Three.js-black?logo=three.js&logoColor=white&style=for-the-badge" alt="Three.js"/></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-#### Databases
-<p align="left">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase&style=for-the-badge" alt="Firebase"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" alt="MariaDB"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft%20sql%20server&logoColor=white&style=for-the-badge" alt="Microsoft SQL Server"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://surrealdb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SurrealDB-FF00A0?logo=surrealdb&logoColor=white&style=for-the-badge" alt="SurrealDB"/></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-#### Data Science & ML
-<p align="left">
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?logo=scikit-learn&logoColor=white&style=for-the-badge" alt="scikit-learn"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white&style=for-the-badge" alt="TensorFlow"/></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-#### Cloud & DevOps
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-%23232F3E.svg?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white&style=for-the-badge" alt="Azure"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge" alt="Google Cloud"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7&style=for-the-badge" alt="Netlify"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel"/></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-#### Tools & Platforms
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white&style=for-the-badge" alt="Arduino"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white&style=for-the-badge" alt="Blender"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white&style=for-the-badge" alt="Canva"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://eslint.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white&style=for-the-badge" alt="ESLint"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge" alt="Figma"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge" alt="Git"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?logo=githubactions&logoColor=white&style=for-the-badge" alt="GitHub Actions"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?logo=adobeillustrator&logoColor=white&style=for-the-badge" alt="Illustrator"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black&style=for-the-badge" alt="Linux"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white&style=for-the-badge" alt="Notion"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white&style=for-the-badge" alt="NPM"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white&style=for-the-badge" alt="Unity"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white&style=for-the-badge" alt="WordPress"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?logo=yarn&logoColor=white&style=for-the-badge" alt="Yarn"/></a>&nbsp;&nbsp;&nbsp;
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushantkumaryadav912&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantkumaryadav912&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkumaryadav912&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🧩 My Contribution Summary (Auto-Updated)
 <!-- CONTRIBUTIONS_START -->
 Loading contribution summary from `contributions.json`...
 <!-- CONTRIBUTIONS_END -->
 
 ---
 
-### 🏆 GitHub Trophies
+## GitHub stats
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushantkumaryadav912&theme=radical" alt="Trophies" /></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sushantkumaryadav912&show_icons=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&border_color=451126&hide_border=false" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantkumaryadav912&layout=compact&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&border_color=451126&hide_border=false" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sushantkumaryadav912&background=10070C&ring=C77B9B&fire=E5B5C7&currStreakLabel=F8F0F3&sideLabels=E5B5C7&currStreakNum=F8F0F3&sideNums=F8F0F3&dates=C77B9B&stroke=451126&border=451126" alt="GitHub streak"/>
 </p>
 
 ---
 
-### ✍️ Favorite Quote
-<p align="center">
-  <blockquote>
-    "I never lose. I either win or learn." — Nelson Mandela
-  </blockquote>
+## Blog
+
+Blog posts on tech and coding adventures are on the way. Follow along on [Dev.to](https://dev.to/sushantkryadav) and [Medium](https://medium.com/@sushantkumaryadav912).
+
+---
+
+## Find me online
+
+<p align="left">
+  <a href="https://codepen.io/rolite-root" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" width="36" height="36"/></a>&nbsp;
+  <a href="https://dev.to/sushantkryadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="36" height="36"/></a>&nbsp;
+  <a href="https://x.com/RoLite19" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-x.svg" alt="X" width="36" height="36"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sushantkumaryadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36"/></a>&nbsp;
+  <a href="https://stackoverflow.com/users/sushant-kumar-yadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="36" height="36"/></a>&nbsp;
+  <a href="https://www.kaggle.com/sushantkumaryadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="36" height="36"/></a>&nbsp;
+  <a href="https://medium.com/@sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="36" height="36"/></a>&nbsp;
+  <a href="https://www.youtube.com/@sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="36" height="36"/></a>&nbsp;
+  <a href="https://www.hackerrank.com/sushantkumaryad1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="36" height="36"/></a>&nbsp;
+  <a href="https://leetcode.com/sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="36" height="36"/></a>&nbsp;
+  <a href="https://www.hackerearth.com/@sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" width="36" height="36"/></a>&nbsp;
+  <a href="https://www.facebook.com/sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="36" height="36"/></a>&nbsp;
+  <a href="https://www.instagram.com/sushantkumaryadav912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="36" height="36"/></a>&nbsp;
+  <a href="https://discord.gg/epSFFWj4" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="36" height="36"/></a>&nbsp;
 </p>
 
 ---
 
-### 🔝 Top Contributed Repo
+> “I never lose. I either win or learn.” — Nelson Mandela
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sushantkumaryadav912&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://komarev.com/ghpvc/?username=sushantkumaryadav912&label=Profile%20views&color=701A3D&style=flat-square" alt="Profile views"/>
 </p>
 
----
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushantkumaryadav912&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="assets/sushant-footer.svg" alt="Thanks for stopping by" width="100%"/>
 </p>
-
-Thanks for stopping by! 😊  
-Let’s connect, collaborate, and create something awesome together.
-
